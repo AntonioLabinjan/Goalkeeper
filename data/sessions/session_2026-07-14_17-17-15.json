@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "repetitions_total": 10,
+        "reaction_window_limit_s": 2.0
+    },
+    "summary": {
+        "total_attempts": 10,
+        "successful_saves": 8,
+        "accuracy_percentage": 80.0,
+        "avg_reaction_time_s": 1.4871910572052003,
+        "fastest_reaction_time_s": 1.1121306419372559,
+        "slowest_save_time_s": 1.745898723602295,
+        "max_streak": 6
+    },
+    "repetitions": [
+        {
+            "repetition_index": 1,
+            "target_direction": "UP_RIGHT",
+            "detected_direction": "UP_RIGHT",
+            "reaction_time_s": 1.745898723602295,
+            "success": true,
+            "timestamp": "2026-07-14T17:16:25.214783"
+        },
+        {
+            "repetition_index": 2,
+            "target_direction": "DOWN_RIGHT",
+            "detected_direction": "DOWN_RIGHT",
+            "reaction_time_s": 1.4206488132476807,
+            "success": true,
+            "timestamp": "2026-07-14T17:16:30.491384"
+        },
+        {
+            "repetition_index": 3,
+            "target_direction": "DOWN_LEFT",
+            "detected_direction": "DOWN_LEFT",
+            "reaction_time_s": 1.4945168495178223,
+            "success": true,
+            "timestamp": "2026-07-14T17:16:36.123808"
+        },
+        {
+            "repetition_index": 4,
+            "target_direction": "DOWN_LEFT",
+            "detected_direction": "DOWN_LEFT",
+            "reaction_time_s": 1.3190574645996094,
+            "success": true,
+            "timestamp": "2026-07-14T17:16:42.024979"
+        },
+        {
+            "repetition_index": 5,
+            "target_direction": "DOWN_LEFT",
+            "detected_direction": "DOWN_LEFT",
+            "reaction_time_s": 1.4961659908294678,
+            "success": true,
+            "timestamp": "2026-07-14T17:16:47.058184"
+        },
+        {
+            "repetition_index": 6,
+            "target_direction": "DOWN_RIGHT",
+            "detected_direction": "DOWN_RIGHT",
+            "reaction_time_s": 1.3380045890808105,
+            "success": true,
+            "timestamp": "2026-07-14T17:16:52.653015"
+        },
+        {
+            "repetition_index": 7,
+            "target_direction": "DOWN_RIGHT",
+            "detected_direction": "DOWN_LEFT",
+            "reaction_time_s": 1.5955657958984375,
+            "success": false,
+            "timestamp": "2026-07-14T17:16:57.649799"
+        },
+        {
+            "repetition_index": 8,
+            "target_direction": "RIGHT",
+            "detected_direction": "UP_RIGHT",
+            "reaction_time_s": 1.1121306419372559,
+            "success": false,
+            "timestamp": "2026-07-14T17:17:03.298016"
+        },
+        {
+            "repetition_index": 9,
+            "target_direction": "UP_LEFT",
+            "detected_direction": "UP_LEFT",
+            "reaction_time_s": 1.7333815097808838,
+            "success": true,
+            "timestamp": "2026-07-14T17:17:07.654340"
+        },
+        {
+            "repetition_index": 10,
+            "target_direction": "LEFT",
+            "detected_direction": "LEFT",
+            "reaction_time_s": 1.6165401935577393,
+            "success": true,
+            "timestamp": "2026-07-14T17:17:13.690078"
+        }
+    ]
+}
