@@ -1,6 +1,3 @@
-### `README.md`
-
-```markdown
 # Goalkeeper Reaction & Position Trainer 🧤⚽
 
 An interactive, computer-vision-powered training workspace designed to benchmark and train a goalkeeper's breakout reaction time, stance stability, and dive-direction accuracy using a standard webcam feed.
@@ -88,7 +85,3 @@ python main.py
 3. **Hold Position:** Wait out the variable pre-shot delay.
 4. **React:** As soon as the green target direction arrow strikes the HUD, burst to that side to register your save latency metrics!
 5. **Review Dashboard:** Press `R` anytime to reset the drill statistics or `Q` / `ESC` to quit out of the workspace safely.
-
-```
-
-```
